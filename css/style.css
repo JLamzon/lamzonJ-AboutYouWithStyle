@@ -1,9 +1,8 @@
 h1 {
     color: black;
     background-color: rgb(216, 216, 216);
-
 }
-html {
+body {
     background-color: rgb(255, 255, 255);
     margin: 2cm;
 }
