@@ -1,9 +1,11 @@
 h1 {
-    color: blue;
-    background-color: black;
+    color: black;
+    background-color: rgb(216, 216, 216);
+
 }
 html {
-    background-color: grey;
+    background-color: rgb(255, 255, 255);
+    margin: 2cm;
 }
 .places {
     font-style: italic;
@@ -16,4 +18,11 @@ li{
     float: right;
     width: 400;
     height: 300;
+}
+.aboutme
+{
+    font-size: 50px;
+    font-style: italic;
+    font-family: cursive;
+    margin-bottom: 0%;
 }
