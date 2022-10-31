@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    background-color: black;
+}
+html {
+    background-color: grey;
+}
+.places {
+    font-style: italic;
+}
+li{
+    color: darkblue;
+}
+.famphoto
+{
+    float: right;
+    width: 400;
+    height: 300;
+}
